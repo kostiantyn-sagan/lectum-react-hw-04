@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lectum-react-hw-04/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/lectum-react-hw-04/static/js/main.c15276be.chunk.js",
+    "main.js.map": "/lectum-react-hw-04/static/js/main.c15276be.chunk.js.map",
+    "runtime-main.js": "/lectum-react-hw-04/static/js/runtime-main.beb72d6f.js",
+    "runtime-main.js.map": "/lectum-react-hw-04/static/js/runtime-main.beb72d6f.js.map",
+    "static/js/2.92d4ae7f.chunk.js": "/lectum-react-hw-04/static/js/2.92d4ae7f.chunk.js",
+    "static/js/2.92d4ae7f.chunk.js.map": "/lectum-react-hw-04/static/js/2.92d4ae7f.chunk.js.map",
+    "index.html": "/lectum-react-hw-04/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/lectum-react-hw-04/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.92d4ae7f.chunk.js.LICENSE.txt": "/lectum-react-hw-04/static/js/2.92d4ae7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.beb72d6f.js",
+    "static/js/2.92d4ae7f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c15276be.chunk.js"
+  ]
+}
